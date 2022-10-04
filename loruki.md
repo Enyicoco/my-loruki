@@ -1,2 +1,0 @@
-# my-loruki
-my loruki
